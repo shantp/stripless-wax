@@ -16,6 +16,10 @@ class App extends Component {
           <p>Alexandra, originally an LA girl who moved to Miami and then back to LA, has more than 10 years experience. Her formal education was obtained in both cities. She had the added privilege of private training with an expert in Brazilian body waxing. Alexandra is proud to provide her clients with only the best products along with painless body waxing and skin care. </p>
         </div>
 
+        <div className="book">
+          <p>For the fastest and easiest way to book an appointment,<br /> please text <a href="tel:13052050119">305-205-0119</a> or email <a href="mailto:justwaxme@gmail.com">justwaxme@gmail.com</a></p>
+        </div>
+
         <div className="services">
           <div className="subhead">Services Offered</div>
           <div className="lists">
@@ -39,7 +43,7 @@ class App extends Component {
                 <li>Deep Bikini</li>
                 <li>Brazilian</li>
                 <li>Full Bikini</li>
-                <li>Back Side / Butt Strip</li>
+                <li>Between the Cheeks</li>
                 <li>Full Tush</li>
 
                 <li>Half Legs</li>
@@ -64,13 +68,13 @@ class App extends Component {
         </div>
         <div className="links">
           <div>
-            <a href="mailto:justwaxme@gmail.com"><img src="email.png" /></a>
+            <a href="mailto:justwaxme@gmail.com"><img src="email.png" alt="" /></a>
           </div>
           <div>
-            <a href="https://www.yelp.com/biz/stripless-wax-los-angeles-2" target="_blank"><img src="yelp.png" /></a>
+            <a href="https://www.yelp.com/biz/stripless-wax-los-angeles-2" rel="noopener noreferrer" target="_blank"><img src="yelp.png" alt="" /></a>
           </div>
           <div>
-            <a href="#"><img src="insta.png" /></a>
+            <a href="https://www.instagram.com/striplesswax_/" rel="noopener noreferrer" target="_blank"><img src="insta.png" alt="" /></a>
           </div>
         </div>
       </div>

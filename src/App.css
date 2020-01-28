@@ -14,6 +14,13 @@ body {
   text-transform: uppercase;
 }
 
+.book {
+  margin: 64px 0;
+  line-height: 24px;
+  border: 2px solid white;
+  color: #000;
+}
+
 .subhead {
   color: black;
   font-size: 17px;
@@ -63,4 +70,8 @@ ul {
 .services > .subhead {
   text-decoration: underline;
   margin-bottom: 17px;
+}
+
+a {
+  color: #800000;
 }
