@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/stripless-wax/static/js/runtime~main.dbef4836.js"
   },
   {
-    "revision": "553ac3fddffc06350e92",
-    "url": "/stripless-wax/static/js/main.553ac3fd.chunk.js"
+    "revision": "4fd870e0727c0c82f763",
+    "url": "/stripless-wax/static/js/main.4fd870e0.chunk.js"
   },
   {
     "revision": "30d8e3e5c44621963571",
     "url": "/stripless-wax/static/js/1.30d8e3e5.chunk.js"
   },
   {
-    "revision": "553ac3fddffc06350e92",
-    "url": "/stripless-wax/static/css/main.cde4eca2.chunk.css"
+    "revision": "4fd870e0727c0c82f763",
+    "url": "/stripless-wax/static/css/main.3306c374.chunk.css"
   },
   {
-    "revision": "fd0adaa7e9f19a8227d06dbcdb67664d",
+    "revision": "9ffbbd28fd7fcb18c9e9c30cddcad224",
     "url": "/stripless-wax/index.html"
   }
 ];
