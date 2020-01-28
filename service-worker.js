@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/stripless-wax/precache-manifest.7f8c2675e461f69818938d1b5fef425b.js"
+  "/stripless-wax/precache-manifest.20738074db821966090ca50993fd05a5.js"
 );
 
 workbox.clientsClaim();
